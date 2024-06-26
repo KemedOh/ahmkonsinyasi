@@ -60,6 +60,7 @@
                             <li class="nav-item"> <a class="nav-link" href="users">Users</a>
                             </li>
                             <li class="nav-item"> <a class="nav-link" href="products">Products</a></li>
+                            <li class="nav-item"> <a class="nav-link" href="customers">Customers</a></li>
                         </ul>
                     </div>
                 </li>
@@ -90,7 +91,7 @@
                     <div class="collapse" id="ui-basic3">
                         <ul class="nav flex-column sub-menu">
                             <li class="nav-item"> <a class="nav-link" href="#">Penjualan Konsinyasi</a></li>
-                            <li class="nav-item"> <a class="nav-link" href="#">Order Konsinyasi</a></li>
+                            <li class="nav-item"> <a class="nav-link" href="sellings">Order Konsinyasi</a></li>
                         </ul>
                     </div>
                 </li>
